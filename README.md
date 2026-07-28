@@ -1,82 +1,65 @@
-<div align="center">
+<h1 align="center">
+  Hi 👋, I'm Harshavarthanan
+</h1>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Harshavarthanan
+<h3 align="center">
+AI & Data Science Engineer | Data Analyst | Machine Learning Enthusiast
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Building+AI+Solutions;Always+Learning+🚀" />
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=Harshavarthanan-ctrl&style=for-the-badge&color=2563EB"/>
-<img src="https://img.shields.io/github/followers/Harshavarthanan-ctrl?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/Harshavarthanan-ctrl?affiliations=OWNER&style=for-the-badge"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Developer;Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Snowflake+%7C+Power+BI;Always+Building+Something+Interesting" />
 </p>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+---
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+# 💫 About Me
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
+- 🎓 B.Tech Artificial Intelligence & Data Science
+- 💼 Interested in Data Science & Machine Learning
+- 📊 Passionate about Analytics and AI
+- 🌱 Currently learning Cloud AI & MLOps
+- 🚀 Love building real-world AI solutions
+- ⚡ Always exploring new technologies
 
 ---
 
-# 🚀 Building
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 🤖 AI
-
-LLMs
-
-Computer Vision
-
-Deep Learning
-
-</td>
-
-<td width="33%" align="center">
-
-### ☁️ Cloud
-
-Snowflake
-
-Docker
-
-FastAPI
-
-</td>
-
-<td width="33%" align="center">
-
-### 📊 Analytics
-
-Power BI
-
-SQL
-
-Python
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚡ Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,flask,react,docker,mysql,mongodb,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,r,java,cpp,mysql,git,github,vscode,linux,react,flask,fastapi,tensorflow,docker"/>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -85,78 +68,72 @@ Python
 # 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🌋 **LandslideX** | AI-powered landslide prediction using CNN, LSTM & Google Earth Engine |
-| 🤖 **Callisto AI** | End-to-End Multimodal AI Assistant |
-| 📊 **Enterprise Analytics** | Snowflake + Streamlit + Power BI |
+|---------|-------------|
+| 🌍 LandslideX | AI-powered landslide prediction using CNN, LSTM & Google Earth Engine |
+| 💳 Credit Card Fraud Detection | Fraud detection using Machine Learning & Streamlit |
+| 📊 Enterprise Analytics Dashboard | Snowflake + Power BI + Python dashboard |
+| 🤖 Smart Transaction Reversal | ML-based banking transaction reversal system |
 
 ---
 
-<div align="center">
+# 🏆 GitHub Trophies
 
-## 📈 GitHub Dashboard
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshavarthanan-ctrl&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavarthanan-ctrl&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 📈 Profile Summary
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Harshavarthanan-ctrl&theme=tokyonight&hide_border=true"/>
+<p align="center">
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark"/>
 
----
-
-<div align="center">
-
-## 📊 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavarthanan-ctrl&theme=tokyo-night"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
-
----
-
-<details>
-<summary><b>📚 More About Me</b></summary>
-
-<br>
-
-🔹 Artificial Intelligence Enthusiast
-
-🔹 Machine Learning
-
-🔹 Data Science
-
-🔹 Open Source
-
-🔹 Cloud & MLOps
-
-🔹 Always building something new 🚀
-
-</details>
+</p>
 
 ---
 
-<div align="center">
+# 🌐 Connect With Me
 
-### ⭐ Let's Build Something Amazing Together
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:7C3AED&section=footer"/>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-</div>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</p>

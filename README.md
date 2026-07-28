@@ -43,15 +43,15 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Harshavarthanan-ctrl">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/harshavarthanan-s-29598a2b6/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:harshavarthanan1285@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 

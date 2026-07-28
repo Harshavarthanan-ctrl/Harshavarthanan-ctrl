@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Harshavarthanan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Developer;Data+Analyst;Python+%7C+SQL+%7C+Snowflake;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Developer;Data+Analyst;Python+%7C+SQL+%7C+Snowflake;Always+Building+Something+Awesome"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 AI & Data Science Student
-- 💡 Interested in Machine Learning & Data Analytics
-- 🌱 Currently learning Snowflake, MLOps & Cloud
-- 🚀 Building AI-powered applications
+- 🎓 B.Tech Artificial Intelligence & Data Science
+- 💡 Passionate about Machine Learning & Data Analytics
+- 🌱 Exploring Snowflake, MLOps & Cloud AI
+- 🚀 Building real-world AI applications
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,r,java,cpp,tensorflow,flask,fastapi,react,mysql,git,github,docker,linux,vscode"/>
@@ -23,26 +23,41 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🚀 Featured Projects
+
+- 🌍 LandslideX — AI-powered landslide prediction using CNN, LSTM & Google Earth Engine
+- 💳 Credit Card Fraud Detection — ML-powered fraud detection system
+- 📈 Enterprise Analytics Dashboard — Snowflake + Python + Power BI
+- 🤖 Smart Transaction Reversal — Banking AI solution
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-## 📫 Connect
+## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
@@ -54,6 +69,7 @@
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
 </p>
 
 ---

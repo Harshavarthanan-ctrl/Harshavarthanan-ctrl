@@ -1,121 +1,104 @@
 <div align="center">
 
-# 👋 Hi, I'm Harshavarthanan
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Harshavarthanan
 
-### Artificial Intelligence • Machine Learning • Data Science
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Building+AI+Solutions;Always+Learning+🚀" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Machine+Learning+Engineer;Data+Science+Enthusiast;Always+Learning+Something+New" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=Harshavarthanan-ctrl&style=for-the-badge&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/Harshavarthanan-ctrl?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/Harshavarthanan-ctrl?affiliations=OWNER&style=for-the-badge"/>
+</p>
 
-<br>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge)](https://harshavarthanan-ctrl.github.io/Harsha-portfolio.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-![](https://komarev.com/ghpvc/?username=Harshavarthanan-ctrl&style=for-the-badge)
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
 ---
 
-# 🚀 Who Am I?
-
-```python
-class Harshavarthanan:
-
-    name = "Harshavarthanan"
-
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Science",
-        "LLMs",
-        "Computer Vision"
-    ]
-
-    currently_learning = [
-        "MLOps",
-        "System Design",
-        "Cloud AI"
-    ]
-
-    motto = "Learn • Build • Improve • Repeat"
-```
-
----
-
-# 🛠 Tech Arsenal
-
-| AI & ML | Backend | Databases | Tools |
-|---------|----------|-----------|-------|
-| Python | FastAPI | Snowflake | Git |
-| TensorFlow | Flask | MySQL | Docker |
-| PyTorch | Streamlit | MongoDB | Linux |
-| Scikit-Learn | React | SQL | VS Code |
-
----
-
-# ⭐ Featured Projects
+# 🚀 Building
 
 <table>
-
 <tr>
 
-<td width="33%">
+<td width="33%" align="center">
 
-## 🌋 LandslideX
-
-Real-time AI forecasting
-
-CNN
-
-LSTM
-
-Google Earth Engine
-
-</td>
-
-<td width="33%">
-
-## 🤖 Callisto
-
-Multimodal AI Assistant
+### 🤖 AI
 
 LLMs
 
-Vision
+Computer Vision
 
-Speech
+Deep Learning
 
 </td>
 
-<td width="33%">
+<td width="33%" align="center">
 
-## 📊 Analytics
-
-Enterprise Dashboard
+### ☁️ Cloud
 
 Snowflake
 
+Docker
+
+FastAPI
+
+</td>
+
+<td width="33%" align="center">
+
+### 📊 Analytics
+
 Power BI
 
-Streamlit
+SQL
+
+Python
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-# 📊 GitHub Dashboard
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,flask,react,docker,mysql,mongodb,git,github,linux,vscode"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🌋 **LandslideX** | AI-powered landslide prediction using CNN, LSTM & Google Earth Engine |
+| 🤖 **Callisto AI** | End-to-End Multimodal AI Assistant |
+| 📊 **Enterprise Analytics** | Snowflake + Streamlit + Power BI |
+
+---
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshavarthanan-ctrl&show_icons=true&theme=tokyonight"/>
+## 📈 GitHub Dashboard
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavarthanan-ctrl&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshavarthanan-ctrl&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavarthanan-ctrl&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -123,41 +106,25 @@ Streamlit
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshavarthanan-ctrl&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Harshavarthanan-ctrl&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<div align="center">
+
+## 📊 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavarthanan-ctrl&theme=tokyo-night"/>
 
----
-
-<details>
-
-<summary>📚 More About Me</summary>
-
-<br>
-
-- 🤖 AI Enthusiast
-
-- 📊 Data Science Explorer
-
-- 🚀 Open Source Learner
-
-- 💡 Love building end-to-end applications
-
-- ☕ Coffee + Code = Productivity
-
-</details>
+</div>
 
 ---
 
 <div align="center">
 
-## 🐍 Contributions
+## 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -165,10 +132,31 @@ Streamlit
 
 ---
 
+<details>
+<summary><b>📚 More About Me</b></summary>
+
+<br>
+
+🔹 Artificial Intelligence Enthusiast
+
+🔹 Machine Learning
+
+🔹 Data Science
+
+🔹 Open Source
+
+🔹 Cloud & MLOps
+
+🔹 Always building something new 🚀
+
+</details>
+
+---
+
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### ⭐ Let's Build Something Amazing Together
 
-*"Turning ideas into intelligent solutions."*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:7C3AED&section=footer"/>
 
 </div>

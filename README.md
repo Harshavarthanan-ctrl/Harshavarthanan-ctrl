@@ -1,70 +1,121 @@
 <div align="center">
 
-# 👋 Hi, I'm **Harshavarthanan**
+# 👋 Hi, I'm Harshavarthanan
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Building+AI+Products" />
+### Artificial Intelligence • Machine Learning • Data Science
 
-<p>
-<a href="https://harshavarthanan-ctrl.github.io/Harsha-portfolio.github.io/">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/">💼 LinkedIn</a> •
-<a href="mailto:your@email.com">📧 Email</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Machine+Learning+Engineer;Data+Science+Enthusiast;Always+Learning+Something+New" />
 
-<img src="https://komarev.com/ghpvc/?username=Harshavarthanan-ctrl&style=for-the-badge&color=0ea5e9"/>
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge)](https://harshavarthanan-ctrl.github.io/Harsha-portfolio.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
+![](https://komarev.com/ghpvc/?username=Harshavarthanan-ctrl&style=for-the-badge)
 
 </div>
 
 ---
 
+# 🚀 Who Am I?
+
+```python
+class Harshavarthanan:
+
+    name = "Harshavarthanan"
+
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science",
+        "LLMs",
+        "Computer Vision"
+    ]
+
+    currently_learning = [
+        "MLOps",
+        "System Design",
+        "Cloud AI"
+    ]
+
+    motto = "Learn • Build • Improve • Repeat"
+```
+
+---
+
+# 🛠 Tech Arsenal
+
+| AI & ML | Backend | Databases | Tools |
+|---------|----------|-----------|-------|
+| Python | FastAPI | Snowflake | Git |
+| TensorFlow | Flask | MySQL | Docker |
+| PyTorch | Streamlit | MongoDB | Linux |
+| Scikit-Learn | React | SQL | VS Code |
+
+---
+
+# ⭐ Featured Projects
+
 <table>
+
 <tr>
 
-<td width="45%">
+<td width="33%">
 
-## 🧠 About Me
+## 🌋 LandslideX
 
-- 🚀 Building AI-powered applications
-- 🤖 Interested in Machine Learning & LLMs
-- 📊 Passionate about Data Science
-- ☁️ Exploring Cloud & MLOps
-- 🌱 Always learning
+Real-time AI forecasting
+
+CNN
+
+LSTM
+
+Google Earth Engine
 
 </td>
 
-<td width="55%">
+<td width="33%">
 
-## ⚡ Tech Stack
+## 🤖 Callisto
 
-<p align="center">
+Multimodal AI Assistant
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,flask,react,docker,git,github,linux,mysql,mongodb,vscode"/>
+LLMs
 
-</p>
+Vision
+
+Speech
+
+</td>
+
+<td width="33%">
+
+## 📊 Analytics
+
+Enterprise Dashboard
+
+Snowflake
+
+Power BI
+
+Streamlit
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🌋 **LandslideX** | Real-time AI forecasting using CNN, LSTM, Random Forest & Google Earth Engine |
-| 🤖 **Callisto AI** | Multimodal AI chatbot powered by modern LLMs |
-| 📊 **Enterprise Analytics** | Snowflake + Streamlit + Power BI analytics platform |
-
----
+# 📊 GitHub Dashboard
 
 <div align="center">
 
-### 📈 GitHub Statistics
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshavarthanan-ctrl&show_icons=true&theme=tokyonight"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshavarthanan-ctrl&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavarthanan-ctrl&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavarthanan-ctrl&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -72,27 +123,41 @@
 
 <div align="center">
 
-### 🔥 GitHub Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshavarthanan-ctrl&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshavarthanan-ctrl&theme=tokyonight"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-### 📊 Contribution Graph
+## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavarthanan-ctrl&theme=tokyo-night"/>
 
-</div>
+---
+
+<details>
+
+<summary>📚 More About Me</summary>
+
+<br>
+
+- 🤖 AI Enthusiast
+
+- 📊 Data Science Explorer
+
+- 🚀 Open Source Learner
+
+- 💡 Love building end-to-end applications
+
+- ☕ Coffee + Code = Productivity
+
+</details>
 
 ---
 
 <div align="center">
 
-### 🐍 Contribution Snake
+## 🐍 Contributions
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -102,6 +167,8 @@
 
 <div align="center">
 
-> *Building intelligent systems that solve real-world problems.*
+### ⭐ Thanks for visiting!
+
+*"Turning ideas into intelligent solutions."*
 
 </div>
